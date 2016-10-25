@@ -5,5 +5,5 @@ Don't hesitate to report any mistake.
 
 # Licence
 Slides are under the GPLv3 licence.
-Figures were created with the LucicChart service but are under the GPLv3 licence (as LucidChart's ToS allow it apparently).
+Figures were created with the LucidChart service but are under the GPLv3 licence (as LucidChart's ToS allow it apparently).
 
